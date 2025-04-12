@@ -19,6 +19,8 @@ const cn = {
     Input: "在此处填写访问码",
     Confirm: "确认",
     Later: "稍后再说",
+    SaasTips: "",
+    TopTips: "",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
