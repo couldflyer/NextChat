@@ -20,6 +20,8 @@ const en: LocaleType = {
     Input: "access code",
     Confirm: "Confirm",
     Later: "Later",
+    SaasTips: "",
+    TopTips: "",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} messages`,
